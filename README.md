@@ -7,8 +7,8 @@ https://stackoverflow.com/questions/51554107/materialdesigninxamltoolkit-element
 
 WPF:
 
-![WPF](https://i.imgur.com/1dcsJQx.mp4 "WPF app view.")
+![WPF](https://i.imgur.com/XYiydEd.gif "WPF app view.")
 
 Winforms:
 
-![Winforms](https://i.imgur.com/SYAPwza.mp4 "Winforms app view.")
+![Winforms](https://i.imgur.com/fwm2tGv.gif "Winforms app view.")
